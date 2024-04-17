@@ -27,6 +27,8 @@ div {
     border: 2px solid black;
     border-radius: 5px;
     box-shadow: 5px 5px 5px black;
+    padding: 7px;
+    justify-content: center;
 }
 .tituloSeccion {
     display: flex;
