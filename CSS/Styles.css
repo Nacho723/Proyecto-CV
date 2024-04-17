@@ -15,6 +15,7 @@ header {
 
 .fotoPerfil {
     width: 150px;
+    justify-self: center;
 }
 
 main {
@@ -23,6 +24,9 @@ main {
     gap: 10px;
 }
 .pngDescripcion{
+    width: 80px;
+}
+.pngHobbies{
     width: 80px;
 }
 
