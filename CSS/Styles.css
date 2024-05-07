@@ -5,10 +5,7 @@ h1 {
 }
 
 header {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+   
     background: linear-gradient(90deg, rgba(182, 69, 119, 1) 0%, rgba(185, 181, 181, 1) 50%, rgba(77, 131, 198, 1) 100%);
     margin-bottom: 50px;
 }
@@ -19,8 +16,7 @@ header {
 }
 
 main {
-    display: grid;
-    grid-template-columns: auto auto auto;
+   
     gap: 10px;
 }
 .pngDescripcion{
